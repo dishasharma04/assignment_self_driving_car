@@ -1,8 +1,7 @@
 <<<<<<< HEAD
 # assignment_self_driving_car
 
-**Date**: 2023-10-05  
-**Name**: Jyothi Prasanna Kambam  
+**Name**: Disha Sharma
 
 ---
 ## Overview  
