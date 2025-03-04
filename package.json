@@ -1,0 +1,13 @@
+{
+  "name": "self_driving_car",
+  "version": "1.0.0",
+  "description": "A self-driving car simulation project",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "node js/main.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
