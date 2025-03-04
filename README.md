@@ -1,4 +1,5 @@
-# 🚗 Self-Driving Car in JavaScript  
+<<<<<<< HEAD
+# assignment_self_driving_car
 
 **Date**: 2023-10-05  
 **Name**: Jyothi Prasanna Kambam  
@@ -43,3 +44,6 @@ This project was inspired by the tutorial found at [this video](https://www.yout
 The code is based on the tutorial's implementation, with modifications to suit the project's requirements.  
 
 ---
+=======
+# assignment_self_driving_car
+>>>>>>> a79e58bcfec7e2dedce094acae7677e38720e41b
